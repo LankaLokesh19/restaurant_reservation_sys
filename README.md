@@ -1,5 +1,4 @@
 organize ur files as shown below:
-
 src/
 ├── components/
 │   ├── Header.js
